@@ -9,4 +9,4 @@ A simple **Pacman** game implemented in **C++** for the console. Navigate Pacman
 - Ghosts move on **predetermined paths** 
 - Score tracking and lives system
 - Easy to compile and run on Windows
-![Pacman Gameplay](screenshot/gameplay.png)
+
